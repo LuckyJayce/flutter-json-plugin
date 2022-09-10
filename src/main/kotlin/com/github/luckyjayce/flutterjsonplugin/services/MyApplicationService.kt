@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.luckyjayce.flutterjsonplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.luckyjayce.flutterjsonplugin.MyBundle
 
 class MyApplicationService {
 
